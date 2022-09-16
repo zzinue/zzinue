@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzinue&label=Profile%20views&color=0e75b6&style=flat" alt="zzinue" /> </p>
 
-- 🌱 I’m currently learning **Sql Databases**
+- 🌱 I’m currently learning **SQL Databases**
 
 - 👨‍💻 All of my projects are available at [https://portfolio2-egator.vercel.app/](https://portfolio2-egator.vercel.app/)
 
