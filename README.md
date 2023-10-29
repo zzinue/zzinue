@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL Databases**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2-egator.vercel.app/]([https://portfolio2-egator.vercel.app/](https://portoflio.zzinue.com/))
+- 👨‍💻 All of my projects are available at [https://portfolio2-egator.vercel.app/](https://portoflio.zzinue.com/)
 
 - 💬 Ask me about **Javascript, MERN Stack**
 
