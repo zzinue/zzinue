@@ -1,13 +1,13 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFPG7ve9o8ObQ/profile-displaybackgroundimage-shrink_350_1400/0/1556031837430?e=1668643200&v=beta&t=zo3SocspDJfOItiTm0a9XfhFn8BqRtl5ES4QqyClmLE)
 <h1 align="center">Hola 👋, Soy Victor G.</h1>
-<h3 align="center">Desarrollador de Mexico.</h3>
+<h3 align="center">Desarrollador de México.</h3>
 <img align="right" alt="Coding" width="400" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzinue&label=Profile%20views&color=0e75b6&style=flat" alt="zzinue" /> </p>
 
 - 🌱 I’m currently learning **SQL Databases**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2-egator.vercel.app/](https://portoflio.zzinue.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio2-egator.vercel.app/]([https://portoflio.zzinue.com/](https://portfolio2-3-d.vercel.app/))
 
 - 💬 Ask me about **Javascript, MERN Stack**
 
